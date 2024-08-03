@@ -1,0 +1,22 @@
+services:
+  ch_server:
+    image: clickhouse/clickhouse-server:24.5.5.68-alpine
+    container_name: clickhouse-test-local
+    ports:
+      - "8123:8123"
+    networks:
+      - ch_ntw
+  rabbitmq:
+    container_name: rabbitmq-test-local
+    image: rabbitmq:3.7-management-alpine
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - ch_ntw
+networks:
+  ch_ntw:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 10.222.1.0/24
