@@ -1,8 +1,8 @@
-package org.example.org.example.configuration
+package org.example.configuration
 
-import org.example.org.example.utils.RabbitMqConfigurationUtils
-import org.example.org.example.utils.RabbitMqConfigurationUtils.declareQueueAndExchange
-import org.example.org.example.utils.RabbitMqConfigurationUtils.declareQueuesAndExchangesWithRetry
+import org.example.utils.RabbitMqConfigurationUtils
+import org.example.utils.RabbitMqConfigurationUtils.declareQueueAndExchange
+import org.example.utils.RabbitMqConfigurationUtils.declareQueuesAndExchangesWithRetry
 import org.springframework.amqp.core.FanoutExchange
 import org.springframework.amqp.rabbit.core.RabbitAdmin
 import org.springframework.beans.factory.annotation.Autowired

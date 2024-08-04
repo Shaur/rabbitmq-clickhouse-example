@@ -1,6 +1,6 @@
-package org.example.org.example.utils
+package org.example.utils
 
-import org.example.org.example.configuration.RabbitMqProperties
+import org.example.configuration.RabbitMqProperties
 import org.springframework.amqp.core.AcknowledgeMode
 import org.springframework.amqp.core.BindingBuilder
 import org.springframework.amqp.core.DirectExchange

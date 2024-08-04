@@ -1,8 +1,8 @@
-package org.example.org.example.controller
+package org.example.controller
 
-import org.example.org.example.dto.CreateUserDto
-import org.example.org.example.dto.UpdateUserDto
-import org.example.org.example.service.UserService
+import org.example.dto.CreateUserDto
+import org.example.dto.UpdateUserDto
+import org.example.service.UserService
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.PutMapping

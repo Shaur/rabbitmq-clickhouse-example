@@ -1,4 +1,4 @@
-package org.example.org.example.model
+package org.example.model
 
 class  User(
     val id: Long,

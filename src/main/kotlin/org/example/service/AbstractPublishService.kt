@@ -1,8 +1,8 @@
-package org.example.org.example.service
+package org.example.service
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import org.example.org.example.constants.ENTITY_EXCHANGE
-import org.example.org.example.constants.USER_ROUTING_KEY
+import org.example.constants.ENTITY_EXCHANGE
+import org.example.constants.USER_ROUTING_KEY
 import org.springframework.amqp.core.Message
 import org.springframework.amqp.core.MessageProperties
 import org.springframework.amqp.core.MessagePropertiesBuilder

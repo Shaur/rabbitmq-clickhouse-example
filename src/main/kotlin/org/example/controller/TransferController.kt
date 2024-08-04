@@ -1,6 +1,6 @@
-package org.example.org.example.controller
+package org.example.controller
 
-import org.example.org.example.dto.CreateTransferDto
+import org.example.dto.CreateTransferDto
 import org.example.service.TransferService
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

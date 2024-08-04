@@ -1,6 +1,6 @@
-package org.example.org.example.configuration
+package org.example.configuration
 
-import org.example.org.example.utils.RabbitMqConfigurationUtils
+import org.example.utils.RabbitMqConfigurationUtils
 import org.springframework.amqp.rabbit.connection.CachingConnectionFactory
 import org.springframework.amqp.rabbit.core.RabbitAdmin
 import org.springframework.amqp.rabbit.core.RabbitTemplate
