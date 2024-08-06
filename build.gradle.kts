@@ -12,11 +12,13 @@ repositories {
 }
 
 dependencies {
-    implementation ("org.jetbrains.kotlin:kotlin-reflect:2.0.0")
-    implementation ("com.fasterxml.jackson.module:jackson-module-kotlin")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:2.0.0")
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 
     implementation("org.springframework.boot:spring-boot-starter-web:3.3.2")
     implementation("org.springframework.boot:spring-boot-starter-amqp:3.3.2")
+
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     testImplementation(kotlin("test"))
 }
@@ -24,6 +26,7 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+
 kotlin {
     jvmToolchain(20)
 }

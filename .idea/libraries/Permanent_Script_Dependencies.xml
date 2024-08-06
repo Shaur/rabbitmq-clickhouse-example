@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="Permanent Script Dependencies">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.1/kotlinNotebook/rabbitmq-clickhouse-example.4e51b397/kernels/0.12.0-226/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-226.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/3.3.2/720418538668a8742d0ae24097811d5250cf5c32/spring-boot-starter-web-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-kotlin/2.17.2/67d4e4ec0538f59a28c92f7fa0b63bd2c8b0ef21/jackson-module-kotlin-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/2.0.0/9c3d75110945233bf77d2e1a90604b100884db94/kotlin-reflect-2.0.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0/b48df2c4aede9586cc931ead433bc02d6fd7879e/kotlin-stdlib-2.0.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-amqp/3.3.2/5bf09ac526a73d474c6e981f2db9d8f4d681b49e/spring-boot-starter-amqp-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/3.3.2/d8b8b73e7820092b4e41d730eeb968add7957c45/spring-boot-starter-json-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/3.3.2/f9377a223dab5c4afe7aead05bf6ac567cf565ab/spring-boot-starter-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/3.3.2/37ccb53cd5207fffd7a6fc1b591687f8cb1350df/spring-boot-starter-tomcat-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/6.1.11/9ec4c2a5e28bf7b2d60e254e976940b12c8ba32a/spring-webmvc-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/6.1.11/8910d08f15492273543d2c8032b2b895e08ed9e/spring-web-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.17.2/e6deb029e5901e027c129341fac39e515066b68c/jackson-databind-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.17.2/147b7b9412ffff24339f8aba080b292448e08698/jackson-annotations-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.amqp/spring-rabbit/3.1.6/e3d5fed3ca8f84b950afea6ce128e9ca81d3436b/spring-rabbit-3.1.6.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/6.1.11/aa154be48b19e68680d485dc919e4b73f0826383/spring-messaging-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.17.2/efd3dd0e1d0db8bc72abbe71c15e697bb83b4b45/jackson-datatype-jdk8-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.17.2/267b85e9ba2892a37be6d80aa9ca1438a0d8c210/jackson-datatype-jsr310-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.17.2/d27b9f95ccce98984c1ba58d61c5a9c072b1ad95/jackson-module-parameter-names-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.3.2/6a9ab910b00f0b504a5903e3680ac10018da6247/spring-boot-autoconfigure-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/3.3.2/72a257d5518b2b8b9949a26543cdb3a4e67de5f8/spring-boot-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/3.3.2/b685c97f3c24dc30c53ae18151a798f701f2a640/spring-boot-starter-logging-3.3.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/48b9bda22b091b1f48b13af03fe36db3be6e1ae3/jakarta.annotation-api-2.1.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/6.1.11/90fce4311852c68c1e87c65adf60db9add1a6dcb/spring-core-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/2.2/3af797a25458550a16bf89acc8e4ab2b7f2bfce0/snakeyaml-2.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/10.1.26/3b147d7e5566e9361e86422f9e49fdd56a429637/tomcat-embed-websocket-10.1.26.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/10.1.26/5e0fa06ca373ef0ca55e603291ea51b590c377ea/tomcat-embed-core-10.1.26.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/10.1.26/5a5cbcb3e51fcd557b164736e9920a3dd2ac1e33/tomcat-embed-el-10.1.26.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.1.11/8fc69f776333713aa26be8821af8c6355ccad8d8/spring-context-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/6.1.11/3503ef99b759b81f8b0b3d5260bf4842e393a581/spring-aop-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/6.1.11/266176d132ab2bbf8e69e4aa6d7f47ec746ddc9a/spring-beans-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/6.1.11/7c12cf1cd39289cfab7c5933eda9e4704a7f2799/spring-expression-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.12.8/33e6ba3ca270e66b9c6145585f62f53f7e651fae/micrometer-observation-1.12.8.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.17.2/969a35cb35c86512acbadcdbbbfb044c877db814/jackson-core-2.17.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/6.1.9/bd7d1c647b21b84ea109c6925d5675d5b5444742/spring-tx-6.1.9.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.amqp/spring-amqp/3.1.6/173c0388be9ae83c4bea13400a517235e06c3efe/spring-amqp-3.1.6.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.19.0/6bd68c3cdf2662a9fbff8de5b9ef2b0fb1e6fe57/amqp-client-5.19.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.6/afc75d260d838a3bddfb8f207c2805ed7d1b34f9/logback-classic-1.5.6.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.23.1/425ad1eb8a39904d2830e907a324e956fb456520/log4j-to-slf4j-2.23.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.13/a3bcd9d9dd50c71ce69f06b1fd05e40fdeff6ba5/jul-to-slf4j-2.0.13.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/6.1.11/97b34c6b72c8084759e71cd09a7dad16bfb8f1da/spring-jcl-6.1.11.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-commons/1.12.8/5683b9834ddb02244076a5acc404c9aed0adf8ee/micrometer-commons-1.12.8.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.retry/spring-retry/2.0.6/812ca80eb5f418c679cb239d2d009c4bf075f3a/spring-retry-2.0.6.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.13/80229737f704b121a318bba5d5deacbcf395bc77/slf4j-api-2.0.13.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.5.6/41cbe874701200c5624c19e0ab50d1b88dfcc77d/logback-core-1.5.6.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.23.1/9c15c29c526d9c6783049c0a77722693c66706e1/log4j-api-2.23.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.0.0/937ef814324f1ed51a25964cea2886598c9c2004/kotlin-test-2.0.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/2.0.0/9d7140c17b978a5e7fd1c2bce8e28d08830952d4/kotlin-test-junit5-2.0.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.1/eb90c7d8bfaae8fdc97b225733fcb595ddd72843/junit-jupiter-api-5.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.1/2bfcd4a4e38b10c671b6916d7e543c20afe25579/junit-platform-commons-1.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.1/ce85bf5e38bee0989ded9bd468dd4ff78dc0cfa8/junit-platform-launcher-1.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.1/6c9ff773f9aa842b91d1f2fe4658973252ce2428/junit-jupiter-engine-5.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.1/f32ae4af74fde68414b8a3d2b7cf1fb43824a83a/junit-platform-engine-1.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/2f4525d4a200e97e1b87449c2cd9bd2e25b7e8cd/okhttp-4.12.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/c7510d64a83411a649c76f2778304ddf71d7437b/kotlin-stdlib-jdk8-1.9.10.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/5600569133b7bdefe1daf9ec7f4abeb6d13e1786/okio-jvm-3.6.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/bc5bfc2690338defd5195b05c57562f2194eeb10/kotlin-stdlib-jdk7-1.9.10.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.4.0/e9061b21958bfaf1cb736eb22e36cbf02d8fe9f/commons-exec-1.4.0.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.1/kotlinNotebook/rabbitmq-clickhouse-example.4e51b397/kernels/0.12.0-226/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-226-sources.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.4.0/e9061b21958bfaf1cb736eb22e36cbf02d8fe9f/commons-exec-1.4.0.jar" />
+    </SOURCES>
+  </library>
+</component>
